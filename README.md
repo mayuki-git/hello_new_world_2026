@@ -1,7 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
-# hello_new_world_2026_須賀_内田
-
+# hello_new_world_2026_須賀_内田_藥師
 テスト用のリポジトリ
 
 ねこかわいい
